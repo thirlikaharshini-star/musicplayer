@@ -1,6 +1,3 @@
-[Live Link](https://musicplayersx.bytexl.live/)
-
-
 Here is a simple and interview-friendly **Music Player Project Overview**:
 
 ## Music Player Project Overview
@@ -39,4 +36,4 @@ The main objective of this project is to build an interactive music player while
 
 This Music Player project provides hands-on experience in front-end web development. It improves problem-solving skills and demonstrates the ability to create interactive web applications using HTML, CSS, and JavaScript.
 
-
+[Live Link](https://musicplayersx.bytexl.live/)
